@@ -10,6 +10,7 @@ To get started just open colorGame.html file
 ├── colorGame.html
 ├── script.js - This has all the action functions.
 ├── style.cc # Styles for colors game
+```
 
 ## Screenshot from the game
 
