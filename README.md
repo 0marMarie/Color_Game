@@ -14,4 +14,4 @@ To get started just open colorGame.html file
 
 ## Screenshot from the game
 
-![Screenshot](screenshot.png)
+![Screenshot](screeshot.png)
